@@ -12,5 +12,5 @@ Cifre se traze u pojedinacnim celijama resetke, izdavajuci celije u regione od 2
 
 Prepoznavanje cifara se vrsi preko neuronske mreze.
 
-Projekat se pokrece pokretanjem **_sudoku.py_** skripte.
+Projekat se pokrece pokretanjem **_sudoku.py_** skripte. Ulazni parametar skripte je putanja do slike ili naziv slike ukoliko je u istom foderu kao i projekat.
 
